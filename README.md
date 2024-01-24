@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning statistics
 - 💞️ I’m looking to collaborate on large language models
 - 📫 How to reach me ...
-- 😄 Pronouns: He
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
 
 <!---
